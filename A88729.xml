@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevves from Kent and a list of the Duke of Lynox, the Lord Hopton, the Lord Culpepper, and other Lords, Colonels, and Captaine there, which were of the Kings party. The Lord Generall Fairfax his randevouz on Hounslo-heath, and touching a treaty to be with the knights and gentlemen of Kent. With a proclamation of the Lord Major of the City of London. A great victory obtained by Sir Hardresse Waller in Cornwall, and other proceedings from the West. And a letter from Lieut. Gen. Cromwell, concerning his proceedings against Penbroke Castle, Tinby Castle, and Chepstow.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88729</idno><idno type="EEBO-CITATION">99864236</idno>
+  <idno type="VID">161742</idno>
+  <idno type="EEBO-PROQUEST">2240902192</idno>
+  
+            <idno type="STC">Wing L495</idno>
+            <idno type="STC">Thomason E445_9</idno>
+            <idno type="STC">ESTC R204774</idno>
+            <idno type="PROQUEST">99864236</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864236e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161742)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevves from Kent and a list of the Duke of Lynox, the Lord Hopton, the Lord Culpepper, and other Lords, Colonels, and Captaine there, which were of the Kings party. The Lord Generall Fairfax his randevouz on Hounslo-heath, and touching a treaty to be with the knights and gentlemen of Kent. With a proclamation of the Lord Major of the City of London. A great victory obtained by Sir Hardresse Waller in Cornwall, and other proceedings from the West. And a letter from Lieut. Gen. Cromwell, concerning his proceedings against Penbroke Castle, Tinby Castle, and Chepstow.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. and are to be sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "May. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161742:1"/>
+            <p>THE LAST NEVVES FROM KENT AND A List of the Duke of <hi>Lynox,</hi> the Lord <hi>Hopton,</hi> the Lord <hi>Culpepper,</hi> and other Lords, Colonels, and Captaines there which were of the Kings party.</p>
+            <p>The Lord Generall <hi>Fairfax</hi> his Randevouz on <hi>Hounslo</hi>-Heath, and touching a Treaty to be with the Knights and Gentlemen of <hi>KENT.</hi>
+            </p>
+            <p>
+               <hi>With a</hi> Proclamation <hi>of the Lord Major of the City of</hi> LONDON.</p>
+            <p>A great Victory obtained by Sir <hi>Hardresse Waller</hi> in <hi>Cornwall,</hi> and other proceedings from the WEST.</p>
+            <p>And a Letter from Lieut. Gen. <hi>Cromwell,</hi> concerning his proceedings against <hi>Penbroke</hi> Castle, <hi>Tinby</hi> Castle, and <hi>Chepstow.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. A.</hi> and are to be sold at the Royall Exchange in <hi>Cornhill.</hi> 1648. <add>may .29.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161742:2"/>
+            <pb facs="tcp:161742:2"/>
+            <head>BY THE MAJOR.</head>
+            <p>FOrasmuch as to the Court of Common-councell of the city of <hi>London</hi> this day assembled, aswell upon the information of the <hi>Committee</hi> for the <hi>Militia</hi> of the said city, upon examination of divers persons brought before them, openly read in the said Court, it did evidently appeare, that the Parl. and City is in great and imminent danger by a desperate design carryed on by evil disposed persons against the same, in a secret and under-hand listing of Apprentices and other persons within the said city, under oath of a Cove<g ref="char:EOLhyphen"/>nant and secresie: A copy of which oath and covenant was there also openly read: The which persons so listed were many thousands, and were to be under the command of seve<g ref="char:EOLhyphen"/>ral persons, who have been Commanders and Actors in the Kings Army against the Parl, with an intent to joyn with se<g ref="char:EOLhyphen"/>veral disaffected persons in severall counties neer this City, who are by the said plotters expected suddenly to approach in great multitudes, and to seize the Bridge and Tower of <hi>London,</hi> and thereby to make the city their own, and to work their wils thereupon: And to that purpose, do buy up many pocket Pistols and Daggers, and other Arms and Ammuniti<g ref="char:EOLhyphen"/>on for Horse and Foot.</p>
+            <p>And at the meeting of divers Irish Papists, several daggers were laid upon the Altar, and by the Priest demanded if they were sharp, and by him were sprinkled with holy water; with an intimation, that many others would be ready for the same purpose.</p>
+            <pb facs="tcp:161742:3"/>
+            <p> All which, and many other the like dangerous passages, do threaten the like massacre as was in <hi>Ireland,</hi> and the utter ruine and destruction of the Parl. and City, if not speedily prevented.</p>
+            <p>And to the intent that the Inhabitants of this city may have knowledge of the dangers they are in, and be more sensible thereof, then yet they are; And that my selfe, the Aldermen, and Common-councel men may discharge our respective duties, herein, and every one in their severall places and condi<g ref="char:EOLhyphen"/>tions may add their endeavours for prevention of the said wicked Design.</p>
+            <p>These are by direction of the said Court of <hi>Common-coun<g ref="char:EOLhyphen"/>cell</hi> to will and require you, That presently upon sight here<g ref="char:EOLhyphen"/>of, you cause the Deputy and <hi>Common-councel men</hi> of your Ward, with the Constables thereof forthwith to repair into their severall <hi>Precincts</hi> and make known the contents hereof unto the severall Inhabitants within the same; and to desire them to suffer their sons, servants, and other persons fit to bear arms, not listed in the Trained Bands, to be listed in the Auxiliaries, under such faithful and honest Commanders, as are and shall be appointed for that purpose by the <hi>Committee</hi> for the <hi>Militia,</hi> according to their late Warrant, and to be in a readinesse for the defence of themselvs, Parl. &amp; city, against all Tumults Invasions, and Insurrections that may happen a<g ref="char:EOLhyphen"/>gainst the same.</p>
+            <p>And that you certifie unto me, or some other of the Justi<g ref="char:EOLhyphen"/>ces of peace, the names of such persons as shal either oppose, or not act in the furthering of the said service. And that you do cause a strict charge and command to bee given to every Inhabitant within your Ward, that they do carefully exa<g ref="char:EOLhyphen"/>mine all their sonnes and servants, or any other under their command, <hi>whether themselves, or any others</hi> (to their know<g ref="char:EOLhyphen"/>ledge) <hi>are within the said design and plot, &amp;c. or what they know
+<pb facs="tcp:161742:3"/>or have heard concerning the same, and do make diligent search concerning the same, for any weapons or papers that may be found in the custody of any of them touching the premises. And that you cause diligent search to be made in all places for all such weapons and other Ammunition of war, and persons that you shall find, that may discover any such intention or design, as is before declared: And to seize the things, and secure the per<g ref="char:EOLhyphen"/>sons, and speedily to acquaint me, or the said Iustices therewith, that such order therein may be taken, as shall be fit.</hi>
+            </p>
+            <p>And lastly, that according to former precept, you take speciall care, and use their best endeavour, That all persons within your Ward of the Trained Bands doe speedily upon the beat of the Drum repair to their Colours: And also, that the double Watch and Ward in every Precinct be careful<g ref="char:EOLhyphen"/>ly observed, and duly set and continued; and the Gates, chains and Landing places maintained and kept from time to time, untill you receive order from me to the contrary. And that all other things be done with care, faithfulnesse, and diligence that may conduce to the safety and preservation of the Par<g ref="char:EOLhyphen"/>liament and City; and to the preventing of this present dan<g ref="char:EOLhyphen"/>gerous and horrid Plot and Designe, and other dangers that ate threatned and intended against the same. And hereof faile you not, as you tender the welfare of the Parliament and ci<g ref="char:EOLhyphen"/>ty, and will answer the contrary at your perill:</p>
+            <closer>
+               <dateline>
+                  <date>This four and twentieth of May, 1648.</date>
+               </dateline>
+               <signed>Michel.</signed>
+            </closer>
+            <trailer>To the Alderman of the Ward of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </trailer>
+         </div>
+         <div type="report_from_Kent">
+            <pb facs="tcp:161742:4"/>
+            <head>The last newes from <hi>Kent,</hi> and a List of the Duke of <hi>Linox,</hi> the Lord <hi>Hopton,</hi> the Lord <hi>Culpepper,</hi> and other Lords, Colonels, and Captains, which were of the Kings party.</head>
+            <p>THe <hi>26.</hi> of this instant, intelligence was brought that the <hi>Kentish-men</hi> were drawing towards <hi>London,</hi> and some of them were about nine of the clock as far as <hi>Darfford,</hi> which is within <hi>12.</hi> miles of <hi>London,</hi> About ten of the clock the same day, a Pin<g ref="char:EOLhyphen"/>nace which was on the River of Thames neer <hi>Green<g ref="char:EOLhyphen"/>wich</hi> was seized on by a party that came out of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Southwark,</hi> her Ordnance taken out, and car<g ref="char:EOLhyphen"/>ryed to land, and these were seconded with some Coun<g ref="char:EOLhyphen"/>try men: they planted some Pieces of Ordnance in the high-way, seized on horses, took prisoners, and plunde<g ref="char:EOLhyphen"/>red those that would not joyn with them, and secured many men which they found together at <hi>Dedford.</hi> In the Evening Col. <hi>Rich</hi> his <hi>Regiment</hi> of horse, and sixe Companies of col. <hi>Barkstead</hi> his <hi>Regiament</hi> of Foot marched over the Bridge into <hi>Southwark,</hi> for the preservation of the City and Borough, and there to joyn with more of the Army, which are coming over at <hi>King<g ref="char:EOLhyphen"/>ston
+<pb facs="tcp:161742:4"/>bridge:</hi> there was a Randezvouz this <hi>27.</hi> at <hi>Hounslo-heath,</hi> the Lord Generall himself was there, and is expected this night at <hi>Westminster,</hi> and for those which have raised a mutiny at <hi>Dedford</hi> and en<g ref="char:EOLhyphen"/>deavour to block up the River, they are said not to bee above <hi>1200.</hi> and some ships are designed to cleere the passage. Many of the Country men in <hi>Kent</hi> do begin to discern that they have been deluded by evill disposed persons, and thereupon some of them have already laid down their arms, and say that they will not joyne with those that have a most horrid design against the Parl. and City, which doth very evidently appear by the Oath of secresie, and other things dayly found out and disco<g ref="char:EOLhyphen"/>vered. The chiefest numbers of the <hi>Kentish-men</hi> do yet remain about <hi>Rochester,</hi> and about <hi>Maidstone;</hi> but it is thought their intentions hold for drawing up to <hi>Black<g ref="char:EOLhyphen"/>heath</hi> on Tuesday next, and if they continue in arms, or come armed thither, it is conceived that there will be a treaty with some of the chiefest, by some Members of the Parl. or Officers of Army, and upon laying downe their arms, and doing that which becometh Petitioners <hi>(which they professe themselves to be)</hi> they will doubtlesse have such an answer thereto, as may best con<g ref="char:EOLhyphen"/>duce to the establishing of Religion, according to the Word of God, the setling his Maj. in his just rights, &amp; procuring of a lasting peace in this distracted King<g ref="char:EOLhyphen"/>dome.</p>
+            <pb facs="tcp:161742:5"/>
+            <p> There is in <hi>Kent</hi> the Duke of <hi>Lynox,</hi> the Lord <hi>Hopton,</hi> the Lord <hi>Culpepper,</hi> and divers others which have been against the Parliament.</p>
+            <p>Letters this day from Lieu. Gen. <hi>Cromwell</hi> of the 24. of this month, say that he doubts not but the business of <hi>Wales</hi> will soon be over for that <hi>Chepstow</hi> Castle is in great want &amp; ne<g ref="char:EOLhyphen"/>cessity, and ready to surrender, which he expects every hour, that no terms can be given them, but only to surrender upon mercy, they having refused conditions heretofore: to mor<g ref="char:EOLhyphen"/>row he intends to be before <hi>Tinby</hi> and <hi>Pembroke,</hi> that colo<g ref="char:EOLhyphen"/>nell <hi>Poyer</hi> and Col. <hi>Powel</hi> who are therein, will be ready to surrender on good tearmes, and that he doubts not but in a short time to retreat with part of his Army, and be ready to receive his Excellencies further Commands, and be able to leave a sufficient party in <hi>VVales</hi> for preserving the peace of those Countries.</p>
+            <p>Letters came from Sir <hi>Hardres VValler;</hi> dated the 25. in<g ref="char:EOLhyphen"/>stant; certifying that his Forces which he sent into <hi>Cornwall,</hi> have given a great overthrow to those which were gathered together in a tumultuous manner, taken divers prisoners and Arms; upon which those that escaped are returned to their own homes.</p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Gilbert Mabbott.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
